@@ -18,7 +18,7 @@
 
 ## Primeiro passo - baixar o projeto
 Faça download do repositório acima ou use o seguinte comando na pasta onde deseja baixar o projeto:
- - git clone https://github.com/AloisioFernandes/movie-browser.git
+ - git clone https://github.com/AloisioFernandes/react-native-0-app.git
 
 ## Segundo passo - instalar dependências
 Digite o seguinte comando dentro da pasta tarefas através do terminal:
