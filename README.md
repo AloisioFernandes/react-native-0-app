@@ -1,5 +1,5 @@
 # react-native-0-app
- Aplicação desenvolvida seguindo vídeo Workshop de react native do canal Sujeito Programador. Aplicativo de tarefas (to-dos) com animações e uso de AsyncStorage para salvar tarefas cadsastradas.
+ Aplicação desenvolvida seguindo vídeo Workshop de react native do canal Sujeito Programador. Aplicativo de tarefas (to-dos) com animações e uso de AsyncStorage para salvar tarefas cadastradas.
 
 <p align="center">
   <img align="center" src=".github/Mobile Home.png" alt="Página inicial" width="275" border="0">
