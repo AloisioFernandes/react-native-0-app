@@ -1,4 +1,4 @@
-# react-native-0-app
+# App To-dos
  Aplicação desenvolvida seguindo vídeo Workshop de react native do canal Sujeito Programador. Aplicativo de tarefas (to-dos) com animações e uso de AsyncStorage para salvar tarefas cadastradas.
 
 <p align="center">
@@ -29,3 +29,9 @@ Dentro da pasta tarefas, digite o seguinte comando no terminal:
  - expo start
 
 Ao executar esse comando, uma página abrirá no seu navegador web. Utilize o aplicativo do expo para abrir o app através do QRCode da página.
+
+# Tecnologias
+ - Expo
+ - React Native
+ - AsyncStorage
+ - <a href="https://react-native-community.github.io/async-storage/">AsyncStorage</a>
