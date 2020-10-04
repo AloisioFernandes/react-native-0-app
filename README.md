@@ -31,7 +31,6 @@ Dentro da pasta tarefas, digite o seguinte comando no terminal:
 Ao executar esse comando, uma página abrirá no seu navegador web. Utilize o aplicativo do expo para abrir o app através do QRCode da página.
 
 # Tecnologias
- - Expo
- - React Native
- - AsyncStorage
- - <a href="https://react-native-community.github.io/async-storage/">AsyncStorage</a>
+ - <a href="https://expo.io/" target="_blank">Expo</a>
+ - <a href="https://reactnative.dev/" target="_blank">React Native</a>
+ - <a href="https://react-native-community.github.io/async-storage/" target="_blank">AsyncStorage</a>
